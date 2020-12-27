@@ -17,3 +17,5 @@ For BCube we have two element which are K and n . K shows levels and n is the nu
 <img src="BCube.jpg">
 <br>
 It print out the output in terminal and a file (Connection.txt).
+<br>
+By executing the Bcube.exe file and entering the K and n values, the output file is generated.
