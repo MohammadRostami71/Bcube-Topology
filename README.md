@@ -14,6 +14,6 @@ We have some important topologies in datacenters such as Fat-Tree Bcube and Dcel
 <br>
 For BCube we have two element which are K and n . K shows levels and n is the number of each switch's ports.
 <br>
-<img src="image/BCube.jpg">
+<img src="BCube.jpg">
 <br>
 It print out the output in terminal and a file (Connection.txt).
